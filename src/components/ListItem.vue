@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useListsStore } from '@/stores/listBasket'
 import type { IListColors } from '@/types/listStore'
-import ItemList from './ItemList.vue'
+import ItemList from './LeftItem.vue'
 import { computed } from 'vue'
 
 const props = defineProps<{ list: IListColors }>()
