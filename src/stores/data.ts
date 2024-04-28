@@ -2,7 +2,6 @@ export const listsData = [
   {
     name: 'List 1',
     shuffle: false,
-    showSubTree: false,
     data: [
       {
         id: 1,
@@ -39,7 +38,6 @@ export const listsData = [
   {
     name: 'List 2',
     shuffle: false,
-    showSubTree: false,
     data: [
       {
         id: 6,
@@ -76,7 +74,6 @@ export const listsData = [
   {
     name: 'List 3',
     shuffle: false,
-    showSubTree: false,
     data: [
       {
         id: 11,
@@ -113,7 +110,6 @@ export const listsData = [
   {
     name: 'List 4',
     shuffle: false,
-    showSubTree: false,
     data: [
       {
         id: 16,
@@ -150,7 +146,6 @@ export const listsData = [
   {
     name: 'List 5',
     shuffle: false,
-    showSubTree: false,
     data: [
       {
         id: 21,

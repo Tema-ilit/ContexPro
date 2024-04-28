@@ -8,6 +8,5 @@ export interface ILists {
 export interface IListColors {
   name: string
   shuffle: boolean
-  showSubTree: boolean
   data: ILists[]
 }
